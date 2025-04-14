@@ -45,8 +45,3 @@ Inicie o servidor
 ```bash
 go run main.go
 ```
-
-
-
-
-
